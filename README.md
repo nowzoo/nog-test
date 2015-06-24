@@ -1,2 +1,2 @@
-# nog-test
-Test Site
+# nog-cli
+The CLI for Nog
